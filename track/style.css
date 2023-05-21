@@ -1,12 +1,11 @@
-.phonetext{
-  width: 100%;
-  height: auto;
+.phonetext {
+  margin-left: auto;
+  margin-right:auto;
+  text-alin:center;
+  font-size:50px;
+  font-family:'Courier New', Courier, monospace
 }
-.articles{
-  width: 90%; /*Takes 90 width from WebContainer*/
-  height: auto;
-  margin: auto;
-}
+
 
 
 .wrapper {
